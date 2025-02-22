@@ -1,0 +1,67 @@
+{
+  "hash": "9cdc627b",
+  "configHash": "ffaa6b70",
+  "lockfileHash": "9f457cb3",
+  "browserHash": "812f4bc9",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c852745d",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "310ec594",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "5d42e5f9",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "e0081d43",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7c509e3c",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "4bc86463",
+      "needsInterop": false
+    },
+    "@ng-bootstrap/ng-bootstrap": {
+      "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
+      "file": "@ng-bootstrap_ng-bootstrap.js",
+      "fileHash": "73d5cf50",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EKYBGKR2": {
+      "file": "chunk-EKYBGKR2.js"
+    },
+    "chunk-NSOTAGBG": {
+      "file": "chunk-NSOTAGBG.js"
+    },
+    "chunk-4VL3V55P": {
+      "file": "chunk-4VL3V55P.js"
+    },
+    "chunk-L42NEIK5": {
+      "file": "chunk-L42NEIK5.js"
+    },
+    "chunk-YUUC2MIQ": {
+      "file": "chunk-YUUC2MIQ.js"
+    }
+  }
+}
